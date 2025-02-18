@@ -47,3 +47,5 @@ Model Performance:
 The model typically achieves an accuracy of 98-99%,
 
 OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e370c220-4b54-4bb0-9273-0b8f0aec755c)
